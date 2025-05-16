@@ -44,6 +44,14 @@ Wissenschaftliches Arbeiten bedeutet:
 
 Alle Aussagen müssen entweder **begründet** oder **belegt** sein.
 
+In einer wissenschaftlichen Arbeit wird eine Forschungsfrage beantwortet. Diese muss in einer wissenschaftlichen Arbeit am Anfang erklärt und am Ende bewertet werden. Die gesamte Arbeit behandelt die Beantwortung der Forschungsfrage, Dabei darf der rote Faden, der den Leser/die Leserin durch die Arbeit bzw. durch die Beantwortung der Forschungsfrage begleitet, nicht verloren gehen.
+
+### 💬 Typische Forschungsfragen (Beispiele)
+
+- *Wie kann [Unternehmen X] den Retourenprozess durch [digitale Methode Y] optimieren?*
+- *Welche Herausforderungen ergeben sich bei der Einführung von [Technologie Z] im Mittelstand?*
+- *Wie wirksam sind Nachhaltigkeitsmaßnahmen in der Logistikbranche?*
+
 ### Wissenschaftliche Methoden
 
 Wähle deine Methode(n) passend zur Fragestellung. Hier eine Auswahl:
@@ -82,6 +90,29 @@ Nach dem klassischen wissenschaftlichen Schema (hypothetisch-deduktiv, vgl. Dodi
 5. **Daten erheben / analysieren**
 6. **Ergebnisse interpretieren**
 7. **Fazit ziehen / Beitrag einordnen**
+
+---
+
+## 📚 Literatur & Recherche
+
+Für die Beantwortung der Forschungsfrage müssen alle Aussagen wissenschaftlich belegt bzw. nachvollziehbar sein. Wissenschaftliche Arbeiten erheben den Anspruch, alle getroffenen Aussagen, Theorien, Hypothesen oder Ergebnisse zu begründen. Nun ist es aber unmöglich und auch unnötig, alle Belege selber zu erbringen (würde dies doch bedeuten, alle verwendeten wissenschaftlichen Grundlagen neu herzuleiten, Messungen selbst durchzuführen, etc.), denn: Quellen liefern ebendiese Begründungen – man muss diese aber auch kennen oder finden. Eine umfassende Literaturrecherche ist folglich unumgänglich. Dabei geht es nicht um die stupide Übernahme von vorhandenem Wissen, sondern um eine kritische und differenzierte Auseinandersetzung mit wissenschaftlichen Themen vor dem Hintergrund der eigenen Forschungsfragen.
+
+### Quellenkategorien
+- Primärquellen (ungefilterte Daten, z.B. Messprotokolle)
+- Sekundärquellen (Ergebnisse, Schlussfolgerungen aus Daten, etc.)
+- Tertiärquellen ("Lehrbuchwissen" bzw. aufbereitete Sekundärquellen)
+
+### Quellentypen
+- Lehrbücher (z.B. für Grundlagen oder Themenüberblicke)
+- Monographien
+- Sammelwerke
+- Fachzeitschriften
+- Tagesaktuelle Printmedien
+- Amtliche Veröffentlichungen
+- Internetquellen
+- "Graue" Literatur (z.B. interne Quellen, Arbeitspapiere, ...)
+
+Bei der Auswahl der richtigen Quellen muss darauf geachtet werden, dass diese Quelle wissenschaftliche fundiert ist. Auch ist zu beachten, dass es Themen gibt, bei denen die Literatur schnell an Aktualität verliert. Interne Quellen ("Graue" Literatur") können ausgewertet werden, sollten aber nur in Ausnahmefällen als Beleg Verwendung finden. Bei einem Einsatz solcher Quellen sind diese gesondert neben dem Literaturverzeichnis aufzuführen!
 
 ---
 
@@ -133,11 +164,13 @@ Mit allen relevanten Angaben:
 - Weiterführende Fragen / mögliche Anschlussprojekte
 
 ### Literaturverzeichnis
-- Einheitliches Zitationssystem (z. B. APA, Fußnoten nach DHBW-Vorgabe)
+- Einheitliches Zitationssystem (z.B. Harvard)
 - Vollständige und alphabetische Angabe aller verwendeten Quellen
 
 ### Anhang (optional)
 - Interviews, Fragebögen, Screenshots, Code, Dokumente
+- Der Anhang wird (i.d.R.) nicht mit alphanumerischen Seitenzahlen nummeriert, sondern mit Buchstaben oder römischen Zahlen
+- Der Inhalt des Anhangs gehört NICHT ins Inhaltsverzeichnis, da der Anhang nicht zum Inhalt gehört!
 
 ---
 
@@ -148,14 +181,6 @@ Mit allen relevanten Angaben:
 - **Indirekte Zitate / Paraphrasen** belegen
 - **Keine Sekundärzitate**, wenn vermeidbar
 - Plagiate führen zum Nichtbestehen!
-
----
-
-## 💬 Typische Forschungsfragen (Beispiele)
-
-- *Wie kann [Unternehmen X] den Retourenprozess durch [digitale Methode Y] optimieren?*
-- *Welche Herausforderungen ergeben sich bei der Einführung von [Technologie Z] im Mittelstand?*
-- *Wie wirksam sind Nachhaltigkeitsmaßnahmen in der Logistikbranche?*
 
 ---
 
