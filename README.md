@@ -214,4 +214,4 @@ Beachte:
 
 ---
 
-📨 *Bei Unsicherheiten frühzeitig Rücksprache mit deiner betreuenden Person halten!*
+📨 *Bei Unsicherheiten frühzeitig Rücksprache halten! (Mail an: mathis.neunzig@gmail.com oder über anders abgemachte Kommunikationskanäle)*
