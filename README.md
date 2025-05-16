@@ -1,6 +1,6 @@
-# 🧭 Leitfaden für Praxis- und Bachelorarbeiten an der DHBW
+# 🧭 Leitfaden für Praxis- und Bachelorarbeiten
 
-Dieser Leitfaden unterstützt dich bei der Planung, Durchführung und Dokumentation deiner **Praxisarbeit (PA)** oder **Bachelorarbeit (BA)**. Er enthält alle wesentlichen **formalen Anforderungen**, erläutert die **wissenschaftlichen Methoden** und gibt dir Hinweise zur **Gliederung** und **Arbeitsweise**.
+Dieser Leitfaden unterstützt dich bei der Planung, Durchführung und Dokumentation deiner **Praxisarbeit (PA)** oder **Bachelorarbeit (BA)**. Er enthält wesentliche **formale Anforderungen**, erläutert die **wissenschaftlichen Methoden** und gibt dir Hinweise zur **Gliederung** und **Arbeitsweise**.
 
 ---
 
