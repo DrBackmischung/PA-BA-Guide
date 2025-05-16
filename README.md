@@ -62,10 +62,8 @@ Wähle deine Methode(n) passend zur Fragestellung. Hier eine Auswahl:
 - Umfragen / Fragebögen
 - Beobachtungsuntersuchungen
 - KANO-Modell
-- Expertenbefragung*
+- Expertenbefragung
 - ...
-
-*Expertenbefragungen sind oft nicht für ein Thema geeignet!
 
 #### Sekundärmethoden
 - Nutzwertanalyse
@@ -76,6 +74,8 @@ Wähle deine Methode(n) passend zur Fragestellung. Hier eine Auswahl:
 - SWOT-Analyse
 - PESTEL-Analyse
 - ...
+
+⚠️ Einige Methoden (z.B. Expertenbefragungen) sind nicht dafür gedacht, sie als alleine Methode für eine Arbeit zu verwenden. 
 
 ---
 
