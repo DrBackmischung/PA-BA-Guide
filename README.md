@@ -214,6 +214,7 @@ Beachte:
 - Kornmeier, M. (2021): *Wissenschaftlich schreiben leicht gemacht*
 - Kotzab, H. (2019): *Methodenkatalog zur Verfassung von Abschlussarbeiten*
 - Dodig-Crnkovic, G.: *Scientific Methods in Computer Science*
+- Kache, M. et al (2015): *Leitfaden Literaturrecherche* (TU Dresden)
 
 ---
 
