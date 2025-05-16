@@ -32,6 +32,7 @@ Die folgenden (formalen) Vorgaben orientieren sich an der Prüfungsordnung der D
 | **Abgabe an der DHBW**                | Digital & gedruckt (nach Vorgabe)     | Digital & gedruckt (nach Vorgabe)           |
 | **Abgabe bei mir**                | Digital als .pdf     | Digital als .pdf           |
 | **Eigenständigkeitserklärung** | Pflicht                            | Pflicht                                      |
+| **Zitierstil** | Selber aussuchen, aber konsequent durchziehen                            | Selber aussuchen, aber konsequent durchziehen                                      |
 
 ---
 
