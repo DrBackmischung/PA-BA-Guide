@@ -4,6 +4,11 @@ Dieser Leitfaden unterstützt dich bei der Planung, Durchführung und Dokumentat
 
 ---
 
+## Kontakt
+- mathis.neunzig@gmail.com
+
+---
+
 ## 🎯 Ziel der Arbeiten
 
 - **Praxisarbeiten (PA)** dokumentieren eine praxisnahe Projektaufgabe aus dem Unternehmen und verbinden diese mit wissenschaftlicher Reflexion.
@@ -22,7 +27,8 @@ Dieser Leitfaden unterstützt dich bei der Planung, Durchführung und Dokumentat
 | **Schriftart/-größe**     | ~ z. B. Times New Roman oder Arial, 11 pt | ~ z. B. Times New Roman oder Arial, 11 pt                                 |
 | **Zeilenabstand**         | ~ 1,5-zeilig                            | ~ 1,5-zeilig                                  |
 | **Ränder**                | ~ Links: 3 cm, Rechts: 2,5 cm           | ~ Links: 3 cm, Rechts: 2,5 cm                                   |
-| **Abgabe**                | Digital & gedruckt (nach Vorgabe)     | Digital & gedruckt (nach Vorgabe)           |
+| **Abgabe an der DHBW**                | Digital & gedruckt (nach Vorgabe)     | Digital & gedruckt (nach Vorgabe)           |
+| **Abgabe bei mir**                | Digital als .pdf     | Digital als .pdf           |
 | **Eigenständigkeitserklärung** | Pflicht                            | Pflicht                                      |
 
 ---
