@@ -29,7 +29,7 @@ Die folgenden (formalen) Vorgaben orientieren sich an der Prüfungsordnung der D
 | **Schriftart/-größe**     | ~ z. B. Times New Roman oder Arial, 11 pt | ~ z. B. Times New Roman oder Arial, 11 pt                                 |
 | **Zeilenabstand**         | ~ 1,5-zeilig                            | ~ 1,5-zeilig                                  |
 | **Ränder**                | ~ Links: 3 cm, Rechts: 2,5 cm           | ~ Links: 3 cm, Rechts: 2,5 cm                                   |
-| **Abgabe an der DHBW**                | Digital & gedruckt (nach Vorgabe)     | Digital & gedruckt (nach Vorgabe)           |
+| **Abgabe an der DHBW**                | Digital auf Moodle (auf Absprache mit Studiengangsleitung achten!)     | Digital auf Moodle (auf Absprache mit Studiengangsleitung achten!)           |
 | **Abgabe bei mir**                | Digital als .pdf     | Digital als .pdf           |
 | **Eigenständigkeitserklärung** | Pflicht                            | Pflicht                                      |
 | **Zitierstil** | Selber aussuchen, aber konsequent durchziehen                            | Selber aussuchen, aber konsequent durchziehen                                      |
