@@ -19,9 +19,9 @@ Dieser Leitfaden unterstützt dich bei der Planung, Durchführung und Dokumentat
 | **Bearbeitungszeit**      | 12 Wochen              | 12 Wochen                                    |
 | **Umfang**                | ca. 20-30 Seiten (reiner Textteil)    | ca. 40-60 Seiten (reiner Textteil)          |
 | **Sprache**               | Deutsch oder Englisch                 | Deutsch oder Englisch                       |
-| **Schriftart/-größe**     | z. B. Times New Roman oder Arial, 11 pt | Wie bei PA                                  |
-| **Zeilenabstand**         | 1,5-zeilig                            | Wie bei PA                                  |
-| **Ränder**                | Links: 3 cm, Rechts: 2,5 cm           | Wie bei PA                                  |
+| **Schriftart/-größe**     | ~ z. B. Times New Roman oder Arial, 11 pt | ~ z. B. Times New Roman oder Arial, 11 pt                                 |
+| **Zeilenabstand**         | ~ 1,5-zeilig                            | ~ 1,5-zeilig                                  |
+| **Ränder**                | ~ Links: 3 cm, Rechts: 2,5 cm           | ~ Links: 3 cm, Rechts: 2,5 cm                                   |
 | **Abgabe**                | Digital & gedruckt (nach Vorgabe)     | Digital & gedruckt (nach Vorgabe)           |
 | **Eigenständigkeitserklärung** | Pflicht                            | Pflicht                                      |
 
