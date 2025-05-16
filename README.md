@@ -2,6 +2,8 @@
 
 Dieser Leitfaden unterstützt dich bei der Planung, Durchführung und Dokumentation deiner **Praxisarbeit (PA)** oder **Bachelorarbeit (BA)**. Er enthält wesentliche **formale Anforderungen**, erläutert die **wissenschaftlichen Methoden** und gibt dir Hinweise zur **Gliederung** und **Arbeitsweise**.
 
+Die folgenden (formalen) Vorgaben orientieren sich an der Prüfungsordnung der DHBW bzw. dem, was in den Modulen zum Wissenschaftlichen Arbeiten gezeigt wird. Spezielle formelle Anforderungen gibt es von meiner Seite nicht. 
+
 ---
 
 ## Kontakt
