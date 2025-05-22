@@ -123,6 +123,8 @@ Bei der Auswahl der richtigen Quellen muss darauf geachtet werden, dass diese Qu
 
 Der folgende Aufbau ist ein schematischer Aufbau und weicht von konkreten Arbeiten ab!
 
+Regel: 1 alleiniger Satz ist kein Absatz!
+
 ### Deckblatt
 Mit allen relevanten Angaben:
 - Titel der Arbeit (ggf. mit Untertitel)
