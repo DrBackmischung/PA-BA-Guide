@@ -125,13 +125,6 @@ Einige Methoden (z. B. Interviews) eignen sich **nicht als alleinige Methode**
 ---
 
 <details>
-<summary>🧪 Wissenschaftlicher Erkenntnisprozess</summary>
-
-</details>
-
----
-
-<details>
 <summary>📚 Literatur & Recherche</summary>
 
 Wissenschaftliche Aussagen müssen durch Literatur belegbar sein. Dabei zählt **nicht Quantität, sondern Qualität**: Es geht um fundierte, aktuelle und zum Thema passende Quellen.
