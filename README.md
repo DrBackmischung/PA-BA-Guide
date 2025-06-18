@@ -9,7 +9,7 @@ Die folgenden (formalen) Vorgaben orientieren sich an der Prüfungsordnung der D
 ---
 
 <details>
-<summary>## Kontakt</summary>
+<summary>Kontakt</summary>
 
 - mathis.neunzig@gmail.com
 
@@ -18,7 +18,7 @@ Die folgenden (formalen) Vorgaben orientieren sich an der Prüfungsordnung der D
 ---
 
 <details>
-<summary>## 🎯 Ziel der Arbeiten</summary>
+<summary>🎯 Ziel der Arbeiten</summary>
 
 - **Praxisarbeiten (PA)** dokumentieren eine praxisnahe Projektaufgabe aus dem Unternehmen und verbinden diese mit wissenschaftlicher Reflexion.  
 - **Bachelorarbeiten (BA)** weisen nach, dass du in der Lage bist, innerhalb einer vorgegebenen Frist ein Problem aus deinem Studienbereich selbstständig und nach wissenschaftlichen Methoden zu bearbeiten.
@@ -28,7 +28,7 @@ Die folgenden (formalen) Vorgaben orientieren sich an der Prüfungsordnung der D
 ---
 
 <details>
-<summary>## 🏗 Formale Anforderungen</summary>
+<summary>🏗 Formale Anforderungen</summary>
 
 | Merkmal                    | Praxisarbeit (PA)                     | Bachelorarbeit (BA)                         |
 |---------------------------|---------------------------------------|---------------------------------------------|
@@ -49,7 +49,7 @@ Die folgenden (formalen) Vorgaben orientieren sich an der Prüfungsordnung der D
 ---
 
 <details>
-<summary>## 🧠 Wissenschaftliches Arbeiten</summary>
+<summary>🧠 Wissenschaftliches Arbeiten</summary>
 
 ### Grundlagen
 
@@ -74,6 +74,18 @@ Wer nur beschreibt, was im Unternehmen gemacht wurde, schreibt einen **Tätigkei
 
 ---
 
+### 🔬 Wissenscgaftlicher Erkenntnisprozess
+
+1. Beobachtung / Ausgangssituation  
+2. **Forschungsfrage** formulieren  
+3. **Hypothese** aufstellen  
+4. **Methode** festlegen  
+5. **Daten erheben / analysieren**  
+6. **Ergebnisse interpretieren**  
+7. **Fazit ziehen / Beitrag einordnen**
+
+---
+
 ### 💬 Typische Forschungsfragen
 
 - *Wie kann [Unternehmen X] den Retourenprozess durch [digitale Methode Y] optimieren?*  
@@ -82,7 +94,7 @@ Wer nur beschreibt, was im Unternehmen gemacht wurde, schreibt einen **Tätigkei
 
 ---
 
-### Wissenschaftliche Methoden
+### ✏️ Wissenschaftliche Methoden
 
 #### Primärmethoden
 - Performanceanalysen
@@ -113,22 +125,14 @@ Einige Methoden (z. B. Interviews) eignen sich **nicht als alleinige Methode**
 ---
 
 <details>
-<summary>## 🧪 Wissenschaftlicher Erkenntnisprozess</summary>
-
-1. Beobachtung / Ausgangssituation  
-2. **Forschungsfrage** formulieren  
-3. **Hypothese** aufstellen  
-4. **Methode** festlegen  
-5. **Daten erheben / analysieren**  
-6. **Ergebnisse interpretieren**  
-7. **Fazit ziehen / Beitrag einordnen**
+<summary>🧪 Wissenschaftlicher Erkenntnisprozess</summary>
 
 </details>
 
 ---
 
 <details>
-<summary>## 📚 Literatur & Recherche</summary>
+<summary>📚 Literatur & Recherche</summary>
 
 Wissenschaftliche Aussagen müssen durch Literatur belegbar sein. Dabei zählt **nicht Quantität, sondern Qualität**: Es geht um fundierte, aktuelle und zum Thema passende Quellen.
 
@@ -149,7 +153,7 @@ Interne Dokumente, Wiki-Artikel oder Präsentationen gelten nur **eingeschränkt
 ---
 
 <details>
-<summary>## 📋 Aufbau der Arbeit (PA & BA)</summary>
+<summary>📋 Struktur und Aufbau der Arbeit</summary>
 
 > Regel: **Ein Satz ist kein Absatz.** Jeder Abschnitt sollte inhaltlich durchdacht, sprachlich vollständig und fachlich sauber sein.
 
@@ -276,7 +280,7 @@ Sie beschreibt die **konkrete Anwendung der wissenschaftlichen Methode**, z. B
 ---
 
 <details>
-<summary>## 🛠 Zitieren & Plagiat</summary>
+<summary>🛠 Zitieren & Plagiat</summary>
 
 - Direkte Zitate: in Anführungszeichen mit Seitenzahl  
 - Indirekte Zitate: paraphrasiert, aber mit Quelle  
@@ -289,7 +293,7 @@ Sie beschreibt die **konkrete Anwendung der wissenschaftlichen Methode**, z. B
 ---
 
 <details>
-<summary>## 📌 Hinweise zu Praxisarbeiten</summary>
+<summary>📌 Präsentationen zu Praxisarbeiten</summary>
 
 - **PA I**: unbenotet  
 - **PA II**: benotet mit Präsentation  
@@ -302,7 +306,7 @@ Sie beschreibt die **konkrete Anwendung der wissenschaftlichen Methode**, z. B
 ---
 
 <details>
-<summary>## 🧭 Fazit: Dein Weg zur erfolgreichen Arbeit</summary>
+<summary>🧭 Fazit: Dein Weg zur erfolgreichen Arbeit</summary>
 
 - Thema mit Relevanz und Bezug zur Praxis wählen  
 - Konkrete Forschungsfrage formulieren  
@@ -315,7 +319,7 @@ Sie beschreibt die **konkrete Anwendung der wissenschaftlichen Methode**, z. B
 ---
 
 <details>
-<summary>## 📚 Weiterführende Literatur</summary>
+<summary>📚 Weiterführende Literatur</summary>
 
 - Theisen, M. R. (2021): *Wissenschaftliches Arbeiten*  
 - Kornmeier, M. (2021): *Wissenschaftlich schreiben leicht gemacht*  
