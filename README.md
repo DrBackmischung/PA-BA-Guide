@@ -8,12 +8,10 @@ Die folgenden (formalen) Vorgaben orientieren sich an der Prüfungsordnung der D
 
 ---
 
-<details>
-<summary>Kontakt</summary>
+Kontakt
 
 - mathis.neunzig@gmail.com
-
-</details>
+- Telefonnummer, die in der Vorlesung rausgegeben wird
 
 ---
 
