@@ -51,6 +51,13 @@ Alle Aussagen müssen entweder **begründet** oder **belegt** sein.
 
 In einer wissenschaftlichen Arbeit wird eine Forschungsfrage beantwortet. Diese muss in einer wissenschaftlichen Arbeit am Anfang erklärt und am Ende bewertet werden. Die gesamte Arbeit behandelt die Beantwortung der Forschungsfrage, Dabei darf der rote Faden, der den Leser/die Leserin durch die Arbeit bzw. durch die Beantwortung der Forschungsfrage begleitet, nicht verloren gehen.
 
+Wissenschaftliche Arbeiten im dualen Studium sind keine Praxisberichte.
+Auch wenn die Arbeit im Rahmen einer Praxisphase entsteht, steht nicht die Beschreibung der Tätigkeiten im Vordergrund, sondern die wissenschaftliche Auseinandersetzung mit einer konkreten Fragestellung. Ziel ist es, Theorien, Konzepte oder Methoden auf ein reales Problem anzuwenden, zu analysieren und kritisch zu reflektieren – nicht, die Praxisphase chronologisch oder projektartig zu dokumentieren.
+
+Ein „Praxisteil“ in der Gliederung sollte nicht bedeuten, dass man einfach beschreibt, was man im Unternehmen gemacht hat. Stattdessen sollte dieser Teil die Anwendung und Überprüfung der theoretischen Grundlagen im konkreten Anwendungsfall beinhalten – idealerweise mit analytischem, evaluierendem oder vergleichendem Charakter.
+
+Wer nur beschreibt, was er oder sie gemacht hat, ohne Bezug zu wissenschaftlicher Literatur oder einer Forschungsfrage, schreibt keine wissenschaftliche Arbeit, sondern einen Praktikumsbericht – und das reicht für eine Projektarbeit bzw. Bachelorarbeit nicht aus.
+
 ### 💬 Typische Forschungsfragen (Beispiele)
 
 - *Wie kann [Unternehmen X] den Retourenprozess durch [digitale Methode Y] optimieren?*
@@ -134,17 +141,30 @@ Mit allen relevanten Angaben:
 - Name, Matrikelnummer, Studiengang, Dualer Partner
 - Betreuer:in, Abgabedatum
 
+> 💡 **Hinweis:** Der Titel sollte nicht nur den Projektnamen enthalten („Entwicklung einer Softwarelösung“), sondern möglichst **die wissenschaftliche Fragestellung oder Zielsetzung** andeuten („Konzeption und Evaluation eines Frameworks zur XY unter Berücksichtigung von Z“).
+
+---
+
 ### Ehrenwörtliche Erklärung
 > „Hiermit versichere ich, dass ich die vorliegende Arbeit selbstständig und nur mit den angegebenen Quellen und Hilfsmitteln erstellt habe. […]“
+
+> 💡 **Hinweis:** Plagiate oder das reine Umschreiben von internen Unternehmensdokumenten ohne wissenschaftliche Auseinandersetzung führen zum Nichtbestehen.
 
 ### Inhaltsverzeichnis
 - Automatisch generieren
 - Mit Seitenzahlen
 
+> 💡 **Hinweis:** Kapitelüberschriften sollten den **Inhalt der Abschnitte präzise widerspiegeln** – nicht „Theorie“ oder „Praxis“, sondern z. B. „Theoretische Grundlagen des XY“ oder „Implementierung und Evaluation des Prototyps“.
+
 ### Abbildungsverzeichnis / Abkürzungsverzeichnis / Tabellenverzeichnis (falls nötig)
+> 💡 **Tipp:** Bei vielen Visualisierungen oder Fachausdrücken sinnvoll – muss aber nicht zwanghaft aufgenommen werden.
 
 ### Abstract
 - Kurzfassung der Zielsetzung, Methode und zentralen Ergebnisse (max. 1 Seite)
+- Sollte auch die Rahmendaten beinhalten (Titel, Art der Arbeit, Name, Matrikelnummer, ...)
+- Wird an der DHBW i.d.R. separat abgegeben
+
+> 💡 **Hinweis:** Der Abstract ist **keine Einleitung** und keine Projektzusammenfassung, sondern soll Leser:innen einen schnellen Überblick über die wissenschaftliche Fragestellung, die gewählte Methode und das wichtigste Ergebnis geben.
 
 ### Einleitung
 - Problemstellung und Motivation
@@ -153,10 +173,16 @@ Mit allen relevanten Angaben:
 - Aufbauübersicht
 - Methodik und Forschungsfrage
 
+> 💡 **Wichtig:** Hier beginnt die wissenschaftliche Arbeit. Es muss klar erkennbar sein, **welches Problem untersucht wird**, **welche konkrete Fragestellung beantwortet werden soll**, und **wie die Untersuchung methodisch erfolgt**.  
+> ❌ *Nicht ausreichend:* „Ich habe in der Praxisphase eine App programmiert.“  
+> ✅ *Besser:* „Die Arbeit untersucht, inwiefern sich Technologie X für Anwendungsfall Y eignet. Hierfür wurde ein Prototyp entwickelt und hinsichtlich Metriken A, B und C analysiert.“
+
 ### Theoretischer Rahmen
 - Definitionen
 - Modelle, Theorien, Begriffe aus Literatur
 - Kritische Reflexion des Forschungsstands
+
+> 💡 **Hinweis:** Dieser Teil dient **nicht der Wiederholung von Wikipedia-Artikeln** oder unkommentierter Fachbuchabschriften, sondern der **gezielten Aufbereitung relevanter Konzepte**, auf die du dich später beziehst. Zeige, dass du die Theorie **verstanden und kritisch eingeordnet** hast.
 
 ### Analyse / Umsetzung
 - Beschreibung des Projekts (z. B. Software, Prozessoptimierung, Marktanalyse)
@@ -164,20 +190,37 @@ Mit allen relevanten Angaben:
 - Visualisierung (Tabellen, Diagramme)
 - Diskussion der Ergebnisse
 
+> ⚠️ **Wichtiger Hinweis:**  
+> Mit „Umsetzung“ ist **nicht gemeint, dass einfach nur beschrieben wird, was du in der Praxisphase gemacht hast** („Ich habe ein Login-Modul programmiert…“).  
+> Es geht um die **Umsetzung der gewählten wissenschaftlichen Methode** – z. B. durch Entwicklung, Experiment, Befragung, Simulation, Prototyp, Vergleich, Evaluation, Literaturvergleich, SWOT-Analyse, etc.  
+> 
+> ✅ *Beispiele:*  
+> - Wenn du ein Tool entwickelst, dann beschreibe **nicht einfach die Funktionalität**, sondern **beziehe dich auf Anforderungen, Theorien oder Methoden** (z. B. Clean Architecture, UX-Prinzipien, Performance-Metriken).  
+> - Wenn du kein Produkt entwickelst, sondern z. B. einen Prozess untersuchst, dann zeige, wie du systematisch analysiert und die Ergebnisse bewertet hast.
+
+> 💬 **Merksatz:** Eine wissenschaftliche Arbeit fragt: *„Was ist daran neu, relevant und wie beweise ich es?“* – nicht: *„Was habe ich gemacht?“*
+
 ### Fazit und Ausblick
 - Beantwortung der Forschungsfrage
 - Erkenntnisse
 - Limitationen
 - Weiterführende Fragen / mögliche Anschlussprojekte
 
+> 💡 **Hinweis:** Hier wird der Bogen zur Einleitung geschlossen. Was wurde gelernt? Was hat funktioniert – und was nicht? Was bleibt offen? Was könnte man im nächsten Schritt untersuchen?
+
 ### Literaturverzeichnis
 - Einheitliches Zitationssystem (z.B. Harvard)
 - Vollständige und alphabetische Angabe aller verwendeten Quellen
+
+> 💡 **Tipp:** Nutze ein (im Unternehmen freigegebenes!) Zitations-Tool (z. B. Citavi, Zotero oder die Literaturfunktion in Word oder LaTeX). **Vermeide Wikipedia** als Quelle, außer in methodischen Anmerkungen.
 
 ### Anhang (optional)
 - Interviews, Fragebögen, Screenshots, Code, Dokumente
 - Der Anhang wird (i.d.R.) nicht mit alphanumerischen Seitenzahlen nummeriert, sondern mit Buchstaben oder römischen Zahlen
 - Der Inhalt des Anhangs gehört NICHT ins Inhaltsverzeichnis, da der Anhang nicht zum Inhalt gehört!
+
+> 💡 **Hinweis:** Der Anhang enthält **Rohmaterial**, das im Hauptteil **nicht vollständig abgebildet** werden kann – z. B. vollständige Code-Dateien, Screenshots von GUIs, Transkripte, Diagramme.  
+> Nicht: „Der Anhang ist die eigentliche Arbeit“ – sondern: „Der Anhang unterstützt die Argumentation im Hauptteil“.
 
 ---
 
