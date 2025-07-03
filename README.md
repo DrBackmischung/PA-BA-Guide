@@ -111,12 +111,11 @@ Wer nur beschreibt, was im Unternehmen gemacht wurde, schreibt einen **Tätigkei
 - PESTEL
 - ...
 
-<details>
-<summary>⚠️ Hinweis zur Methodenwahl</summary>
+---
+
+### ⚠️ Hinweis zur Methodenwahl
 
 Einige Methoden (z. B. Interviews) eignen sich **nicht als alleinige Methode**, sondern müssen in einen fundierten Gesamtkontext eingebettet sein.
-
-</details>
 
 </details>
 
@@ -170,12 +169,11 @@ Der Titel sollte **nicht nur das Projekt benennen**, sondern klar machen, **was 
 
 > „Hiermit versichere ich, dass ich die vorliegende Arbeit selbstständig und nur mit den angegebenen Quellen und Hilfsmitteln erstellt habe. […]“
 
-<details>
-<summary>⚠️ Plagiate</summary>
+---
+
+### ⚠️ Plagiate
 
 Plagiate (auch Teilplagiate!) führen zum **Nichtbestehen**. Auch Copy-Paste aus eigenen früheren Arbeiten ohne Kennzeichnung ist problematisch.
-
-</details>
 
 ---
 
