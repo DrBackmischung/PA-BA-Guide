@@ -284,7 +284,57 @@ Sie beschreibt die **konkrete Anwendung der wissenschaftlichen Methode**, z. B
 <details>
 <summary>🤖 Einsatz von AI</summary>
 
+KI-gestützte Tools wie ChatGPT oder BARD können bei der Recherche,
+beim Strukturieren von Argumenten oder als Ideengeber sehr hilfreich sein.
+Sie arbeiten auf Basis maschinellen Lernens und reihen Worte mit der
+größten Passwahrscheinlichkeit aneinander. Dennoch gilt es einige Punkte
+zu beachten:
 
+### Chancen und Risiken
+
+- **Einsatzmöglichkeiten**: Gliederungsvorschläge, Formulierungshilfen,
+  Zusammenfassungen, Übersetzungen.
+- **Eingeschränkte Trainingsdaten**: Aktuelle und wissenschaftliche
+  Quellen können fehlen.
+- **Keine Gewähr für Richtigkeit**: Inhalte, Zitate oder Quellen können
+  falsch sein.
+
+### Rechtliche Rahmenbedingungen
+
+- Bei der Eingabe eigener Texte sind Sperrvermerke und Datenschutz des
+  Ausbildungspartners zu beachten.
+- KI-generierte Texte können Urheberrechte Dritter verletzen – eine
+  blinde Übernahme ist zu vermeiden.
+- Lizenz- oder Nutzungsbedingungen der Tools können einen Hinweis auf den
+  KI-Einsatz verlangen.
+
+### Prüfungsrechtliche Einordnung
+
+- KI-Tools sind keine zitierfähigen Primärquellen.
+- Eine Urheberschaft am KI-Text besteht nur, wenn dein eigener Beitrag
+  überwiegt.
+- KI-generierte Inhalte müssen deutlich gekennzeichnet werden – etwa per
+  Fußnote und in einem separaten Verzeichnis. Verwende dafür das Formular
+  „Hilfsmittelangabe zum Einsatz von KI-basierten Werkzeugen“ nach der
+  Selbstständigkeitserklärung.
+
+### Folgen fehlender Kennzeichnung
+
+- Die unmarkierte Übernahme von KI-Inhalten verstößt gegen die Regeln
+  guter wissenschaftlicher Praxis und gilt als Täuschung.
+- Mögliche Sanktionen reichen von „nicht bestanden“ bis zur
+  Exmatrikulation.
+
+**Beispiel für die erforderliche Erklärung**:
+
+> In Kenntnis des Hinweisblatts „Hinweise zum Einsatz von IT-/KI-basierten
+> Werkzeugen bei der Anfertigung von wissenschaftlichen Arbeiten und die
+> prüfungsrechtlichen Folgen ihres Einsatzes“ erkläre ich hiermit, bei der
+> Erstellung dieser Prüfungsleistung eigenständig und beim Einsatz
+> IT-/KI-gestützter Schreibwerkzeuge maßgeblich steuernd gearbeitet zu
+> haben. Ich habe verwendete Werkzeuge mit Produktnamen, Bezugsquelle und
+> Funktionsumfang aufgeführt und wortwörtliche Übernahmen im
+> Quellenverzeichnis sowie als Fußnote angegeben.
 
 </details>
 
