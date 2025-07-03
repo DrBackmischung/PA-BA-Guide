@@ -282,6 +282,15 @@ Sie beschreibt die **konkrete Anwendung der wissenschaftlichen Methode**, z. B
 ---
 
 <details>
+<summary>🤖 Einsatz von AI</summary>
+
+
+
+</details>
+
+---
+
+<details>
 <summary>📌 Präsentationen zu Praxisarbeiten</summary>
 
 - **PA I**: unbenotet  
