@@ -72,7 +72,7 @@ Wer nur beschreibt, was im Unternehmen gemacht wurde, schreibt einen **Tätigkei
 
 ---
 
-### 🔬 Wissenscgaftlicher Erkenntnisprozess
+### 🔬 Wissenschaftlicher Erkenntnisprozess
 
 1. Beobachtung / Ausgangssituation  
 2. **Forschungsfrage** formulieren  
@@ -310,15 +310,14 @@ zu beachten:
 
 ### Prüfungsrechtliche Einordnung
 
-- KI-Tools sind keine zitierfähigen Primärquellen.
-- Eine Urheberschaft am KI-Text besteht nur, wenn dein eigener Beitrag
-  überwiegt.
+- KI-Tools sind keine zitierfähigen Quellen.
+- 
 - KI-generierte Inhalte müssen deutlich gekennzeichnet werden – etwa per
   Fußnote und in einem separaten Verzeichnis. Verwende dafür das Formular
   „Hilfsmittelangabe zum Einsatz von KI-basierten Werkzeugen“ nach der
   Selbstständigkeitserklärung.
 
-### Folgen fehlender Kennzeichnung
+### ⚠️ Folgen fehlender Kennzeichnung
 
 - Die unmarkierte Übernahme von KI-Inhalten verstößt gegen die Regeln
   guter wissenschaftlicher Praxis und gilt als Täuschung.
