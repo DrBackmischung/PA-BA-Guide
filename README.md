@@ -311,7 +311,6 @@ zu beachten:
 ### Prüfungsrechtliche Einordnung
 
 - KI-Tools sind keine zitierfähigen Quellen.
-- 
 - KI-generierte Inhalte müssen deutlich gekennzeichnet werden – etwa per
   Fußnote und in einem separaten Verzeichnis. Verwende dafür das Formular
   „Hilfsmittelangabe zum Einsatz von KI-basierten Werkzeugen“ nach der
